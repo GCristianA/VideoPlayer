@@ -1,4 +1,4 @@
-Project made for a university class.
+Project made for an university class.
 
 Features:
 -Basic controls(play/pause, volume buttons and skip buttons)
